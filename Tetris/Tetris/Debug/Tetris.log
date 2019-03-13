@@ -1,0 +1,17 @@
+﻿  Board.cpp
+e:\wat\tetris\tetris\tetris\board.cpp(15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Forms.cpp
+e:\wat\tetris\tetris\tetris\forms.cpp(35): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\wat\tetris\tetris\tetris\forms.cpp(36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\wat\tetris\tetris\tetris\forms.cpp(41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  SceneGame.cpp
+  Tetris.cpp
+e:\wat\tetris\tetris\tetris\tetris.cpp(10): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\wat\tetris\tetris\tetris\tetris.cpp(42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\wat\tetris\tetris\tetris\tetris.cpp(162): warning C4018: '>': signed/unsigned mismatch
+e:\wat\tetris\tetris\tetris\tetris.cpp(165): warning C4018: '>': signed/unsigned mismatch
+e:\wat\tetris\tetris\tetris\tetris.cpp(245): warning C4018: '<': signed/unsigned mismatch
+e:\wat\tetris\tetris\tetris\tetris.cpp(257): warning C4018: '<': signed/unsigned mismatch
+  game.cpp
+  Generating Code...
+  Tetris.vcxproj -> E:\wat\Tetris\Tetris\Debug\Tetris.exe
